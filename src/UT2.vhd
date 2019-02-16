@@ -9,7 +9,7 @@ entity UT2 is
 		IMM : in std_logic_vector (7 downto 0);
 		RA, RB, RW : in std_logic_vector (3 downto 0) := "0000";
 		OP		: in std_logic_vector (1 downto 0);
-		REGWR, WE, CLK, SEL1, SEL2		: in std_logic;
+		WE, CLK, SEL1, SEL2		: in std_logic;
 		N					: out std_logic);
 end UT2;
 
@@ -21,7 +21,7 @@ begin
 
 	
 
-	Register_bench : entity work.Register_bench port map (W => BUSW, RA => RA, RB => RB, RW => RW, WE => REGWR, CLK => CLK, A => BUSA, B => BUSB);
+	Register_bench : entity work.Register_bench port map (W => BUSW, RA => RA, RB => RB, RW => RW, WE => WE, CLK => CLK, A => BUSA, B => BUSB);
 
 	ExtSign : entity work.ExtSign generic map (N => 8)
 	                              port map (E => IMM, S => IMMOUT);
