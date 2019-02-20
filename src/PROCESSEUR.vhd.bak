@@ -28,7 +28,7 @@ UGI0 : entity work.UGI(struct) port map( offset , nPCsel , clk, rst, instruction
 RPSR0 : entity work.RegistrePSR(RTL) port map(flag ,PSRout, clk, rst, PSRen);
 MUX24 : entity work.MUX21(RTL) generic map(N => 4)
                                 port map (Rm, Rd, RegSel, Rb);
-UT_2_0: entity work.UT2(RTL) port map (IMM8 , Ra, Rb, Rd , ALUctr, REgWr, clk, rst, ALUsrc, WrSrc, flag(31));
-flag <= (others =>'0');
+UT_2_0: entity work.UT2(RTL) port map (IMM8 , Ra, Rb, Rd , ALUctr, REgWr, clk, ALUsrc, WrSrc, flag(31));
+--flag <= (others =>'0');
 
 end architecture ;

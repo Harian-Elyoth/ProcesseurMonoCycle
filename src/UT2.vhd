@@ -10,7 +10,8 @@ entity UT2 is
 		RA, RB, RW : in std_logic_vector (3 downto 0) := "0000";
 		OP		: in std_logic_vector (1 downto 0);
 		WE, CLK, SEL1, SEL2		: in std_logic;
-		N					: out std_logic);
+		N					: out std_logic_vector(31 downto 0)
+);
 end UT2;
 
 architecture RTL of UT2 is

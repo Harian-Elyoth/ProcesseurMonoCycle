@@ -8,7 +8,7 @@ entity Data_Memory is
 		Addr		: in std_logic_vector (5 downto 0);
 		WE, CLK		: in std_logic;
 		DATAOUT		: out std_logic_vector (31 downto 0));
-end Memoire_de_Donnees;
+end Data_Memory;
 
 
 
@@ -20,7 +20,7 @@ function init_banc return table is
 variable result : table;
 begin
 	for i in 63 downto 0 loop
-		result(i) := (others => '0');
+		result(i) := std_logic_vector(to_unsigned(i), 64);
 	end loop;
 	return result;
 end init_banc;

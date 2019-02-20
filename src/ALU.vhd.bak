@@ -1,6 +1,7 @@
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
+use IEEE.std_logic_arith.all;
 
 entity ALU is 
   port (
@@ -36,7 +37,7 @@ begin
     
   end process;
   
-  N <= (others => resultat(31));
+  N <= SXT(std_logic_vector(resultat(31)), N'length);
   
   S <= resultat;
   

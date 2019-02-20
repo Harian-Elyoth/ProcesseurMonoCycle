@@ -1,546 +1,713 @@
 m255
-K3
+K4
+z2
 13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
 cModel Technology
-Z0 d/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src
+Z0 dC:/Users/elyot/Desktop/ProcesseurMonoCycle/src
 Ealu
-Z1 w1550006542
-Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
-Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
-Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
-Z5 d/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src
-Z6 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/ALU.vhd
-Z7 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/ALU.vhd
+Z1 w1550704371
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/ALU.vhd
+Z6 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/ALU.vhd
 l0
 L5
-Viml`=Dmie9=L]0T42Y;hd2
-Z8 OV;C;10.1d;51
+V3cGY^Akd7JB29hb[_eW3<3
+!s100 nID2E9ef>W`U>B19SYB372
+Z7 OV;C;10.6d;65
 32
-Z9 !s108 1550249976.147428
-Z10 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/ALU.vhd|
-Z11 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/ALU.vhd|
-Z12 o-work work -O0
-Z13 tExplicit 1
-!s100 d[S0oePKI6iLSC?haOcF81
+Z8 !s110 1550704377
 !i10b 1
+Z9 !s108 1550704377.000000
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/ALU.vhd|
+Z11 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/ALU.vhd|
+!i113 1
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
 Abehav
 R2
 R3
 R4
-Z14 DEx4 work 3 alu 0 22 iml`=Dmie9=L]0T42Y;hd2
+Z14 DEx4 work 3 alu 0 22 3cGY^Akd7JB29hb[_eW3<3
 l20
 L16
-VPN;7d3Wz7<93FP72ZkkfM3
-R8
+VZKLN76dK:6]9<hSz3`B713
+!s100 =4X2:V@6TGP3YR^f_La=l3
+R7
 32
+R8
+!i10b 1
 R9
 R10
 R11
+!i113 1
 R12
 R13
-!s100 :IY`EfEOCc=gld[A??^Rj3
-!i10b 1
 Edata_memory
-Z15 w1550006540
+Z15 w1550701456
 R2
 R3
 R4
-R5
-Z16 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/Data_Memory.vhd
-Z17 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/Data_Memory.vhd
+R0
+Z16 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/Data_Memory.vhd
+Z17 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/Data_Memory.vhd
 l0
 L5
-VMU6dk:?8AC6]TabG6IHc[3
-R8
+V`iSbeZbSG?>=6;B8k[W7i3
+!s100 9?RV9ZU8kcfj_52:NBm_g0
+R7
 32
-Z18 !s108 1550249977.057947
-Z19 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/Data_Memory.vhd|
-Z20 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/Data_Memory.vhd|
+Z18 !s110 1550701461
+!i10b 1
+Z19 !s108 1550701461.000000
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/Data_Memory.vhd|
+Z21 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/Data_Memory.vhd|
+!i113 1
 R12
 R13
-!s100 2XmaTdgZT>M@f3k^icV2@0
-!i10b 1
 Artl
 R2
 R3
 R4
-Z21 DEx4 work 11 data_memory 0 22 MU6dk:?8AC6]TabG6IHc[3
-l30
+Z22 DEx4 work 11 data_memory 0 22 `iSbeZbSG?>=6;B8k[W7i3
+l41
 L15
-Vabh08n60ElI7?@I:5KE[b2
-R8
+V@V9DhjlbkBRZmE^_3d5`j1
+!s100 5:Xab;DhmnRYOcR1V:20S0
+R7
 32
 R18
+!i10b 1
 R19
 R20
+R21
+!i113 1
 R12
 R13
-!s100 264XG6:TFQgVABOQN=Rd61
-!i10b 1
 Eextsign
-Z22 w1550006544
-Z23 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z23 w1550217886
+Z24 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
 R2
 R3
 R4
-R5
-Z24 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/ExtSign.vhd
-Z25 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/ExtSign.vhd
+R0
+Z25 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/ExtSign.vhd
+Z26 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/ExtSign.vhd
 l0
 L6
-V?RZL45ob:mJHZ^Q=ACGiD2
-R8
+V5I<1j77bh`EdHoOTPo@9`1
+!s100 =2_0jEgaCWHmgHJlY<bYn1
+R7
 32
-Z26 !s108 1550249977.522879
-Z27 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/ExtSign.vhd|
-Z28 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/ExtSign.vhd|
+Z27 !s110 1550691616
+!i10b 1
+Z28 !s108 1550691615.000000
+Z29 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/ExtSign.vhd|
+Z30 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/ExtSign.vhd|
+!i113 1
 R12
 R13
-!s100 ECOFj4cFeimSje80eSQ;D3
-!i10b 1
 Abehav
-R23
+R24
 R2
 R3
 R4
-Z29 DEx4 work 7 extsign 0 22 ?RZL45ob:mJHZ^Q=ACGiD2
+Z31 DEx4 work 7 extsign 0 22 5I<1j77bh`EdHoOTPo@9`1
 l17
 L15
-VQ[BAY>JZ<iM9?d0S];gfG3
-R8
+V6oSeLQ^1nAkF9jiD@:Q[93
+!s100 nKJncEh@7ACV[jCSMZWEZ2
+R7
 32
-R26
 R27
+!i10b 1
 R28
+R29
+R30
+!i113 1
 R12
 R13
-!s100 :1iDZLBeMgHhBWDej]PD=3
-!i10b 1
 Einstruction_decoder
-Z30 w1550247306
-R23
+Z32 w1550217864
+R24
 R3
 R4
-R5
-Z31 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/instruction_decoder.vhd
-Z32 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/instruction_decoder.vhd
+R0
+Z33 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/instruction_decoder.vhd
+Z34 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/instruction_decoder.vhd
 l0
 L7
-V9A8hS9e?C;=Af]XWYM[d_2
-R8
+Vj2X<FK^1I6Y2LGNEDaSeI2
+!s100 bmNRF27CG@31CaW`6Ni6m0
+R7
 32
-Z33 !s108 1550249977.987438
-Z34 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/instruction_decoder.vhd|
-Z35 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/instruction_decoder.vhd|
+R27
+!i10b 1
+Z35 !s108 1550691616.000000
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/instruction_decoder.vhd|
+Z37 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/instruction_decoder.vhd|
+!i113 1
 R12
 R13
-!s100 Q5@Wl_^F^f]D@jH]<ZGnb1
-!i10b 1
 Artl
-R23
+R24
 R3
 R4
-Z36 DEx4 work 19 instruction_decoder 0 22 9A8hS9e?C;=Af]XWYM[d_2
+Z38 DEx4 work 19 instruction_decoder 0 22 j2X<FK^1I6Y2LGNEDaSeI2
 l25
 L19
-V@i?:?MoKkFnJ2]NW3i[`E0
-R8
+V;6]0OLn_E4ReilT84X6mA2
+!s100 ]R=Rae2c]AJSJnn1^T@_^0
+R7
 32
-R33
-R34
+R27
+!i10b 1
 R35
+R36
+R37
+!i113 1
 R12
 R13
-!s100 TZ7Y;cA]J4QBNDUn9N]C_0
-!i10b 1
 Einstruction_memory
-Z37 w1550069609
+Z39 w1550217866
 R2
 R3
 R4
-R5
-Z38 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/instruction_memory.vhd
-Z39 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/instruction_memory.vhd
+R0
+Z40 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/instruction_memory.vhd
+Z41 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/instruction_memory.vhd
 l0
 L5
-VBBK]E[f1M>PAe`2917YZ;1
-R8
+Vg7f0SBY3`z;Be4:AMH=W63
+!s100 4gn>SXS3fVej1E?=]Dj_@2
+R7
 32
-Z40 !s108 1550249978.493124
-Z41 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/instruction_memory.vhd|
-Z42 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/instruction_memory.vhd|
+R27
+!i10b 1
+R35
+Z42 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/instruction_memory.vhd|
+Z43 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/instruction_memory.vhd|
+!i113 1
 R12
 R13
-!s100 ka<:POBm8B`RBW^^MCmE21
-!i10b 1
 Artl
 R2
 R3
 R4
-Z43 DEx4 work 18 instruction_memory 0 22 BBK]E[f1M>PAe`2917YZ;1
+Z44 DEx4 work 18 instruction_memory 0 22 g7f0SBY3`z;Be4:AMH=W63
 l35
 L12
-VcaV3YXQj<hV2jaB:HecBE0
-R8
+V5hhm:1JZ49Jl2jl[<aAdX2
+!s100 znVV2FSX;o^^YD=BOamEc1
+R7
 32
-R40
-R41
+R27
+!i10b 1
+R35
 R42
+R43
+!i113 1
 R12
 R13
-!s100 IH<8_B1B?zI;;mj_I7XSM3
-!i10b 1
 Emux21
-R22
+Z45 w1550217880
 R2
 R3
 R4
-R5
-Z44 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/MUX21.vhd
-Z45 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/MUX21.vhd
+R0
+Z46 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/MUX21.vhd
+Z47 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/MUX21.vhd
 l0
 L5
-V2@cYTPQZ;5AG2mYFm9m@c0
-R8
+V:98^0k2DoW=0<lc;=oDXb1
+!s100 BCQ[3GX^WD>3?5mZM:[T01
+R7
 32
-Z46 !s108 1550249978.963506
-Z47 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/MUX21.vhd|
-Z48 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/MUX21.vhd|
+R27
+!i10b 1
+R35
+Z48 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/MUX21.vhd|
+Z49 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/MUX21.vhd|
+!i113 1
 R12
 R13
-!s100 U=BhGTOO;oR<3XhfJccKF0
-!i10b 1
 Artl
 R2
 R3
 R4
-Z49 DEx4 work 5 mux21 0 22 2@cYTPQZ;5AG2mYFm9m@c0
+Z50 DEx4 work 5 mux21 0 22 :98^0k2DoW=0<lc;=oDXb1
 l16
 L14
-VIhXSDUbB5G^KM[6N;iUmX1
-R8
+VBOSPPzLeVYQ]GXKdlZNAZ2
+!s100 X9cYQ@0agYWUn@_4@6nVD0
+R7
 32
-R46
-R47
+R27
+!i10b 1
+R35
 R48
+R49
+!i113 1
 R12
 R13
-!s100 kJ53mGJJSU:=^XQRc=8dG1
-!i10b 1
 Epcextender
-Z50 w1550072829
-R23
+Z51 w1550217894
+R24
 R2
 R3
 R4
-R5
-Z51 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/PCExtender.vhd
-Z52 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/PCExtender.vhd
+R0
+Z52 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/PCExtender.vhd
+Z53 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/PCExtender.vhd
 l0
 L6
-VI6OD:=QNPcDgD2VVIE[UA0
-R8
+V;S@bP2m<<YobSH8=?h02b2
+!s100 5Wk6K?kRIH<j4mK6>AbHV1
+R7
 32
-Z53 !s108 1550249979.445309
-Z54 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/PCExtender.vhd|
-Z55 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/PCExtender.vhd|
+R27
+!i10b 1
+R35
+Z54 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/PCExtender.vhd|
+Z55 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/PCExtender.vhd|
+!i113 1
 R12
 R13
-!s100 oTFBZKfgd[iRmcm?FlX:>3
-!i10b 1
 Artl
-R23
+R24
 R2
 R3
 R4
-Z56 DEx4 work 10 pcextender 0 22 I6OD:=QNPcDgD2VVIE[UA0
+Z56 DEx4 work 10 pcextender 0 22 ;S@bP2m<<YobSH8=?h02b2
 l15
 L13
-VUfOeiM[mPR6PYGCFBfZ`M2
-R8
+V1;A7Z?E7M5zMORLODfh6m0
+!s100 RAKgfPjE^3hjd79N:ON]i3
+R7
 32
-R53
+R27
+!i10b 1
+R35
 R54
 R55
+!i113 1
 R12
 R13
-!s100 jGf3MInbeG[;3JZ7E@_0e3
-!i10b 1
 Eprocesseur
-Z57 w1550249897
+Z57 w1550704517
 R2
 R3
 R4
-R5
-Z58 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/PROCESSEUR.vhd
-Z59 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/PROCESSEUR.vhd
+R0
+Z58 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/PROCESSEUR.vhd
+Z59 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/PROCESSEUR.vhd
 l0
 L5
-V60EPI`KC8z3ZLD2linOZ_1
-!s100 B[=dQ<HL0kHfOza7HnXZ]3
-R8
+VkJTR3_TfCEo@f4nSW;6ga0
+!s100 mhR^^eW;2Dk<H`0ZS8b<@3
+R7
 32
+Z60 !s110 1550704521
 !i10b 1
-Z60 !s108 1550250016.316791
-Z61 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/PROCESSEUR.vhd|
-Z62 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/PROCESSEUR.vhd|
+Z61 !s108 1550704521.000000
+Z62 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/PROCESSEUR.vhd|
+Z63 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/PROCESSEUR.vhd|
+!i113 1
 R12
 R13
 Astruct
-Z63 DEx4 work 3 ut2 0 22 Ml_ZEebOP:e@U[E0T8>J92
-R49
-Z64 DEx4 work 11 registrepsr 0 22 Pg=`VU1F0CLWF>OClaBO>3
-Z65 DEx4 work 3 ugi 0 22 HlP33NMXUNzoK086^i0`b1
-R23
-R36
+Z64 DEx4 work 3 ut2 0 22 U>lRIWY]<;ZeOlYEM`:X]3
+R50
+Z65 DEx4 work 11 registrepsr 0 22 cf=QSJh3YzNPh0BC>JmnG2
+Z66 DEx4 work 3 ugi 0 22 DkOk0Ag3XXzcJKAz8[9kj1
+R24
+R38
 R2
 R3
 R4
-Z66 DEx4 work 10 processeur 0 22 60EPI`KC8z3ZLD2linOZ_1
+Z67 DEx4 work 10 processeur 0 22 kJTR3_TfCEo@f4nSW;6ga0
 l24
 L12
-Z67 Vd:3?V3RabNCI5m<23LzQS0
-Z68 !s100 @4b2S@?TQo`J;0L;Va>Q91
-R8
+V>3`o6i2zJUS?6]G_^e?<m3
+!s100 hNaYY[iV^DRMI0QWN:SE72
+R7
 32
-!i10b 1
 R60
+!i10b 1
 R61
 R62
+R63
+!i113 1
+R12
+R13
+Abench
+w1550694777
+R2
+R3
+R4
+R67
+Z68 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/processeur_tb.vhd
+Z69 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/processeur_tb.vhd
+l12
+L8
+VH4]64?gD5IiT1DDCM8k<Q0
+!s100 D:h^ab;=Fi3ISOAQg`PY;3
+R7
+32
+!s110 1550694780
+!i10b 1
+!s108 1550694780.000000
+Z70 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/processeur_tb.vhd|
+Z71 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/processeur_tb.vhd|
+!i113 1
+R12
+R13
+Eprocesseur_tb
+Z72 w1550695136
+R2
+R3
+R4
+R0
+R68
+R69
+l0
+L5
+V;3V3L1in4EUaDmAZ]a<HI0
+!s100 Cli3h:[eMZ@TfLIiYhgIm2
+R7
+32
+Z73 !s110 1550695398
+!i10b 1
+Z74 !s108 1550695398.000000
+R70
+R71
+!i113 1
+R12
+R13
+Abench
+R67
+R2
+R3
+R4
+DEx4 work 13 processeur_tb 0 22 ;3V3L1in4EUaDmAZ]a<HI0
+l12
+L8
+V>:YcFZ=Y77=ii7z3cV8KB2
+!s100 FjCECaRo?1<Y>9^mJ@D:I2
+R7
+32
+R73
+!i10b 1
+R74
+R70
+R71
+!i113 1
 R12
 R13
 Eregister_bench
-Z69 w1550066794
+Z75 w1550217872
 R2
 R3
 R4
-R5
-Z70 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/Register_bench.vhd
-Z71 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/Register_bench.vhd
+R0
+Z76 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/Register_bench.vhd
+Z77 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/Register_bench.vhd
 l0
 L5
-VT4FfAmPFCOMzNH=CX^Tn21
-R8
+V26;mMU76CnL^Qjm_LEOBY0
+!s100 QT?BK_X5aAm0EoCRK^GEb0
+R7
 32
-Z72 !s108 1550249989.573161
-Z73 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/Register_bench.vhd|
-Z74 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/Register_bench.vhd|
+R27
+!i10b 1
+R35
+Z78 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/Register_bench.vhd|
+Z79 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/Register_bench.vhd|
+!i113 1
 R12
 R13
-!s100 n3G5P]TRT]H=XRlQCWeUV3
-!i10b 1
 Artl
 R2
 R3
 R4
-Z75 DEx4 work 14 register_bench 0 22 T4FfAmPFCOMzNH=CX^Tn21
+Z80 DEx4 work 14 register_bench 0 22 26;mMU76CnL^Qjm_LEOBY0
 l34
 L14
-VQSbGK1O[OVWj8HbO@Bg@]2
-R8
+Vd:P@_gKolZinW8>T73PWm0
+!s100 FXnCcURJaHHK@I0[EkP>Q0
+R7
 32
-R72
-R73
-R74
-R12
-R13
-!s100 3^FLzGTaGl?GQA5kWDAAX1
+R27
 !i10b 1
-Eregistrepc
-Z76 w1550236906
-R2
-R3
-R4
-R5
-Z77 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/RegistrePC.vhd
-Z78 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/RegistrePC.vhd
-l0
-L5
-VbL4DF=XHEZ?JhIIVZ``YP0
-R8
-32
-Z79 !s108 1550249989.068927
-Z80 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/RegistrePC.vhd|
-Z81 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/RegistrePC.vhd|
-R12
-R13
-!s100 zJ`UQJKEPdCG0VP5V`c<O1
-!i10b 1
-Artl
-R2
-R3
-R4
-Z82 DEx4 work 10 registrepc 0 22 bL4DF=XHEZ?JhIIVZ``YP0
-l17
-L13
-VTJ>F?=H<VcBN8@R?EQU>h2
-R8
-32
+R35
+R78
 R79
-R80
-R81
+!i113 1
 R12
 R13
-!s100 ;4hP<eLe=:UIUaAnY`dQ;0
-!i10b 1
-Eregistrepsr
-Z83 w1550243680
+Eregistrepc
+R32
 R2
 R3
 R4
-R5
-Z84 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/RegistrePSR.vhd
-Z85 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/RegistrePSR.vhd
+R0
+Z81 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/RegistrePC.vhd
+Z82 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/RegistrePC.vhd
 l0
 L5
-VPg=`VU1F0CLWF>OClaBO>3
-R8
+V_^JoU68`mWMgU30K93W3Z0
+!s100 A2lITbl5_cGI4YPVIgiX30
+R7
 32
-Z86 !s108 1550249988.295754
-Z87 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/RegistrePSR.vhd|
-Z88 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/RegistrePSR.vhd|
+R27
+!i10b 1
+R35
+Z83 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/RegistrePC.vhd|
+Z84 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/RegistrePC.vhd|
+!i113 1
 R12
 R13
-!s100 @7?12P2K32Sd5nmKa2@GE1
-!i10b 1
 Artl
 R2
 R3
 R4
-R64
+Z85 DEx4 work 10 registrepc 0 22 _^JoU68`mWMgU30K93W3Z0
 l17
 L13
-VF:bP_LQNc]`LgT[3Yn8Ua1
-R8
+VSDQZW3em]m_^NOoAX4GhM0
+!s100 ldzDn4@bHe;oJnjHTVKfj3
+R7
 32
-R86
-R87
-R88
+R27
+!i10b 1
+R35
+R83
+R84
+!i113 1
 R12
 R13
-!s100 NFK3bJ<?L_AnzDA@jCUbj3
-!i10b 1
-Eugi
-Z89 w1550077338
+Eregistrepsr
+Z86 w1550217862
 R2
 R3
 R4
-R5
-Z90 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/UGI.vhd
-Z91 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/UGI.vhd
+R0
+Z87 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/RegistrePSR.vhd
+Z88 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/RegistrePSR.vhd
 l0
 L5
-VHlP33NMXUNzoK086^i0`b1
-R8
+Vcf=QSJh3YzNPh0BC>JmnG2
+!s100 VTOcaSVMo@a[:<<F5K8[M2
+R7
 32
-Z92 !s108 1550250014.412537
-Z93 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/UGI.vhd|
-Z94 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/UGI.vhd|
+R27
+!i10b 1
+R35
+Z89 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/RegistrePSR.vhd|
+Z90 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/RegistrePSR.vhd|
+!i113 1
 R12
 R13
-!s100 ^<^keAYjR`oIca_866]aZ2
-!i10b 1
-Astruct
-R43
-R82
-R49
-R23
-R56
+Artl
 R2
 R3
 R4
 R65
-l19
+l17
 L13
-VO_Y_YklB0>PY>XQ2?RQ_n2
-R8
+VRDL4Sh>oK0AH4@9kQzPhn1
+!s100 BNRWKW2hJ?o^LB52NCaUT1
+R7
 32
-R92
-R93
-R94
+R27
+!i10b 1
+R35
+R89
+R90
+!i113 1
 R12
 R13
-!s100 C11_DLOG0f>=imEVoWcUV1
-!i10b 1
-Eut
-Z95 w1550066907
+Eugi
+Z91 w1550217868
 R2
 R3
 R4
-R5
-Z96 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/UT1.vhd
-Z97 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/UT1.vhd
+R0
+Z92 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UGI.vhd
+Z93 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UGI.vhd
 l0
 L5
-V9KE>TSPbUW59n6Xa9e]UF1
-R8
+VDkOk0Ag3XXzcJKAz8[9kj1
+!s100 hhe3nY9`DiYe7PGZZ_^@A0
+R7
 32
-Z98 !s108 1550249987.452851
-Z99 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/UT1.vhd|
-Z100 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/UT1.vhd|
+Z94 !s110 1550691617
+!i10b 1
+Z95 !s108 1550691617.000000
+Z96 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UGI.vhd|
+Z97 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UGI.vhd|
+!i113 1
 R12
 R13
-!s100 =C:7YaKVZ6bV]<2CPQ>Hj0
-!i10b 1
 Astruct
-R14
-R75
+R44
+R85
+R50
+R24
+R56
 R2
 R3
 R4
-DEx4 work 2 ut 0 22 9KE>TSPbUW59n6Xa9e]UF1
+R66
+l19
+L13
+Vli@i<T6z>6:X2oLY3GIGA3
+!s100 bZE^12GCMN^kY]3fB?Qla1
+R7
+32
+R94
+!i10b 1
+R95
+R96
+R97
+!i113 1
+R12
+R13
+Eugi_tb
+Z98 w1550202446
+R2
+R3
+R4
+R0
+Z99 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UGI_tb.vhd
+Z100 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UGI_tb.vhd
+l0
+L5
+V`VX548eBNYhb5EM]7BK0W3
+!s100 Sac1T6F<bN41QAWk^CdId3
+R7
+32
+R94
+!i10b 1
+R95
+Z101 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UGI_tb.vhd|
+Z102 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UGI_tb.vhd|
+!i113 1
+R12
+R13
+Abench
+R66
+R2
+R3
+R4
+DEx4 work 6 ugi_tb 0 22 `VX548eBNYhb5EM]7BK0W3
+l14
+L8
+V]XZ=hZ7XTXL5zG2TPZhd_1
+!s100 Iha?LCiDh>Y`OKS^Aje;e0
+R7
+32
+R94
+!i10b 1
+R95
+R101
+R102
+!i113 1
+R12
+R13
+Eut
+Z103 w1550217884
+R2
+R3
+R4
+R0
+Z104 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UT1.vhd
+Z105 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UT1.vhd
+l0
+L5
+Vk8a0TZ5dQ4NIN4Pne8WFY3
+!s100 ?N:CldFAWnD]QBb]M;Ll62
+R7
+32
+R94
+!i10b 1
+R95
+Z106 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UT1.vhd|
+Z107 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UT1.vhd|
+!i113 1
+R12
+R13
+Astruct
+DEx4 work 3 alu 0 22 JLW1WkIjUI`1:WUz@;iJQ3
+R80
+R2
+R3
+R4
+DEx4 work 2 ut 0 22 k8a0TZ5dQ4NIN4Pne8WFY3
 l20
 L16
-VdZHH:hLl>[3UWGF`OoOm:2
-R8
+V42hzm`zP;agGmfWnIPmGl0
+!s100 niZgU<NlNz_1RHLge4ihl1
+R7
 32
-R98
-R99
-R100
+R94
+!i10b 1
+R95
+R106
+R107
+!i113 1
 R12
 R13
-!s100 DC_K@JhjJ1KSgGbOEi>g^0
-!i10b 1
 Eut2
-Z101 w1550249800
+Z108 w1550704452
 R2
 R3
 R4
-R5
-Z102 8/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/UT2.vhd
-Z103 F/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/UT2.vhd
+R0
+Z109 8C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UT2.vhd
+Z110 FC:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UT2.vhd
 l0
 L7
-VMl_ZEebOP:e@U[E0T8>J92
-R8
+VU>lRIWY]<;ZeOlYEM`:X]3
+!s100 SD6H3aTE3d0];IM^ekm4o2
+R7
 32
-Z104 !s108 1550249984.971567
-Z105 !s90 -reportprogress|300|-work|work|/nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/UT2.vhd|
-Z106 !s107 /nfs/home/sasl/eleves/ei-se/3671069/Processeur_MonoCycle/src/UT2.vhd|
+Z111 !s110 1550704454
+!i10b 1
+Z112 !s108 1550704454.000000
+Z113 !s90 -reportprogress|300|-work|work|C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UT2.vhd|
+Z114 !s107 C:/Users/elyot/Desktop/ProcesseurMonoCycle/src/UT2.vhd|
+!i113 1
 R12
 R13
-!s100 PJCLhG23_I4<TgG`inYz61
-!i10b 1
 Artl
-R21
+R22
 R14
-R49
-R23
-R29
-R75
+R50
+R24
+R31
+R80
 R2
 R3
 R4
-R63
-l20
-L16
-VI[Ml``mNeFW2`AO;k@9?50
-R8
+R64
+l21
+L17
+VKPQ:nQQedg^E8QmU<m2b[2
+!s100 d:WX0QEm7@Mki@=d2<3mg0
+R7
 32
-R104
-R105
-R106
+R111
+!i10b 1
+R112
+R113
+R114
+!i113 1
 R12
 R13
-!s100 T2H8=SDd33zjK?[W^4^kG1
-!i10b 1

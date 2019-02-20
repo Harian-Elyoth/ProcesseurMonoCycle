@@ -1,0 +1,34 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.numeric_std.all;
+
+entity processeur_tb is
+end entity;
+
+architecture BENCH of processeur_tb is
+
+Signal clock, reset : std_logic;
+
+begin
+
+process
+begin
+	clock <= '1';
+	wait for 10 ns;
+	clock <= '0';
+	wait for 10 ns;
+end process;
+test : process
+begin
+
+	reset <= '1';
+	wait for 20 ns;
+	reset <= '0';
+	wait for 2000 ns;
+	wait;
+
+end process;
+
+PRO : entity work.processeur port map(clock, reset);
+end architecture;
+
